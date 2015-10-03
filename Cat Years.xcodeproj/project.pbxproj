@@ -12,6 +12,7 @@
 		EF7390011BA29634000F9FDF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EF738FFF1BA29634000F9FDF /* Main.storyboard */; };
 		EF7390031BA29634000F9FDF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF7390021BA29634000F9FDF /* Assets.xcassets */; };
 		EF7390061BA29634000F9FDF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EF7390041BA29634000F9FDF /* LaunchScreen.storyboard */; };
+		EF73900E1BA2983E000F9FDF /* cat.png in Resources */ = {isa = PBXBuildFile; fileRef = EF73900D1BA2983E000F9FDF /* cat.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		EF7390021BA29634000F9FDF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EF7390051BA29634000F9FDF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EF7390071BA29634000F9FDF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EF73900D1BA2983E000F9FDF /* cat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cat.png; path = ../../cat.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				EF738FFB1BA29634000F9FDF /* AppDelegate.swift */,
 				EF738FFD1BA29634000F9FDF /* ViewController.swift */,
+				EF73900D1BA2983E000F9FDF /* cat.png */,
 				EF738FFF1BA29634000F9FDF /* Main.storyboard */,
 				EF7390021BA29634000F9FDF /* Assets.xcassets */,
 				EF7390041BA29634000F9FDF /* LaunchScreen.storyboard */,
@@ -124,6 +127,7 @@
 			files = (
 				EF7390061BA29634000F9FDF /* LaunchScreen.storyboard in Resources */,
 				EF7390031BA29634000F9FDF /* Assets.xcassets in Resources */,
+				EF73900E1BA2983E000F9FDF /* cat.png in Resources */,
 				EF7390011BA29634000F9FDF /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
